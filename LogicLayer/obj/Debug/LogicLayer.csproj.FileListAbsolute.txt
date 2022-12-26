@@ -1,0 +1,11 @@
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\akinc\source\repos\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\akinc\source\repos\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\akinc\source\repos\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\akinc\source\repos\LogicLayer\obj\Debug\LogicLayer.pdb
